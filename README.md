@@ -1,1 +1,1 @@
-# my_first_symfony
+# My first Symfony project
